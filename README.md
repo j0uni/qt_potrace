@@ -1,5 +1,7 @@
 # Qt Potrace
 
+<img width="973" alt="Näyttökuva 2025-03-26 kello 20 52 33" src="https://github.com/user-attachments/assets/1f36dd9e-b60d-4a56-a728-1d2f3599c817" />
+
 A Qt-based GUI application for converting bitmap images to vector graphics using the Potrace algorithm.
 
 ## Features
